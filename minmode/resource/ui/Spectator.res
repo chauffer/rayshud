@@ -71,7 +71,7 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"Cerbetica24"
+		"font"			"CerbeticaOutline24"
 	}
 	"BuyBackLabel"
 	{

@@ -22,6 +22,27 @@
 		
 		"fgcolor"		"255 255 255 100"
 	}
+
+	OpenCross
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"OpenCross"
+		"visible"		"1"
+		"enabled"		"1"
+		"zpos"			"2"
+
+        "xpos"          "c-86"
+        "ypos"          "c-99"
+        "wide"          "201"
+        "tall"          "198"
+
+		"font"			"CrosshairsOutline24"
+		"font"			"Crosshairs24"
+		"labelText"		"i"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"255 255 255 255"
+	}
 	
 	ScatterSpread
 	{
