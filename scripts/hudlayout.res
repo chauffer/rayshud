@@ -280,14 +280,14 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"OpenCross"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
-		"xpos"			"c-85"
-		"ypos"			"c-100"
-		"wide"			"199"
-		"tall"			"200"
+        "xpos"          "c-86"
+        "ypos"          "c-99"
+        "wide"          "201"
+        "tall"          "198"
 
 		"font"			"CrosshairsOutline24"
 		"font"			"Crosshairs24"
