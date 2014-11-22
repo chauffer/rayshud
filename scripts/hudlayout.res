@@ -286,8 +286,8 @@
 
         "xpos"          "c-86"
         "ypos"          "c-99"
-        "wide"          "201"
-        "tall"          "198"
+        "wide"          "202"
+        "tall"          "199"
 
 		"font"			"CrosshairsOutline24"
 		"font"			"Crosshairs24"
