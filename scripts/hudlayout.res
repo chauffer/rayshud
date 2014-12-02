@@ -259,8 +259,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"WingsSmall"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
@@ -280,8 +280,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"OpenCross"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"zpos"			"2"
 
         "xpos"          "c-86"
@@ -294,7 +294,7 @@
 		"labelText"		"i"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"0 255 0 255"
 	}
 	
 	OpenCrossDot
@@ -378,8 +378,8 @@
 		"tall_hidef"	"212"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "50"
 	}
@@ -399,8 +399,8 @@
 		"tall_hidef"	"212"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "50"
 	}
@@ -420,8 +420,8 @@
 		"tall_hidef"	"212"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "50"
 	}
@@ -441,8 +441,8 @@
 		"tall_hidef"	"212"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "100"
 	}
@@ -461,8 +461,8 @@
 		"tall_hidef"	"212"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "150"
 	}
@@ -481,8 +481,8 @@
 		"tall_hidef"	"212"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "100"
 	}
@@ -503,8 +503,8 @@
 		"tall_hidef"	"212"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "100"
 	}
