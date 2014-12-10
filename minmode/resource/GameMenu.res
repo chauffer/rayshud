@@ -3,27 +3,27 @@
 
 	"VersionNumber"
 	{
-		"label" "CfR's rayshud v3.98" 
+		"label" "CfR's rayshud v3.985" 
 		"subimage" ""
 		"OnlyAtMenu" "0"
 	}
 	"QuickplayButton"
 	{
-		"label" "Quickplay" 
+		"label" "Play" 
 		"command" "quickplay"
 		"subimage" ""
 		"OnlyAtMenu" "1"
 	}
 	"QuickplayChangeButton"
 	{
-		"label" "Quickplay" 
+		"label" "Play" 
 		"command" "quickplay"
 		"subimage" ""
 		"OnlyInGame" "1"
 	}
 	"PlayPVEButton"
 	{
-		"label" "Co-op" 
+		"label" "MvM" 
 		"command" "playpve"
 		"subimage" ""
 		"OnlyAtMenu" "1"
