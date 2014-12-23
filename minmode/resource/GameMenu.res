@@ -3,7 +3,7 @@
 
 	"VersionNumber"
 	{
-		"label" "CfR's rayshud v3.985" 
+		"label" "CfR's rayshud v3.99" 
 		"subimage" ""
 		"OnlyAtMenu" "0"
 	}
