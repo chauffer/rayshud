@@ -1,9 +1,12 @@
 "GameMenu" [$WIN32]
 {
-
 	"VersionNumber"
 	{
+<<<<<<< HEAD
 		"label" "CfR's rayshud v3.99" 
+=======
+		"label" "rayshud v7.2" 
+>>>>>>> upstream/master
 		"subimage" ""
 		"OnlyAtMenu" "0"
 	}
