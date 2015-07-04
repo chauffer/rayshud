@@ -2,11 +2,7 @@
 {
 	"VersionNumber"
 	{
-<<<<<<< HEAD
-		"label" "CfR's rayshud v3.99" 
-=======
-		"label" "rayshud v7.2" 
->>>>>>> upstream/master
+		"label" "CfR's rayshud 7.04" 
 		"subimage" ""
 		"OnlyAtMenu" "0"
 	}
