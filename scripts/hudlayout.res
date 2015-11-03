@@ -1,7 +1,7 @@
 "Resource/HudLayout.res"
 {
-	//crosshairs
-	
+	//
+	//hello
 	Spookmaster
 	{
 		"controlName"	"CExLabel"
@@ -399,8 +399,8 @@
 		"tall_hidef"	"212"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "50"
 	}
@@ -420,8 +420,8 @@
 		"tall_hidef"	"212"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "50"
 	}
@@ -2166,5 +2166,4 @@
 		"wide" 			"f0"
 		"tall" 			"480"
 	}
-	
 }
