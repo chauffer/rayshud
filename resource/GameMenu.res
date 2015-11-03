@@ -2,7 +2,7 @@
 {
 	"VersionNumber"
 	{
-		"label" "CfR's rayshud 7.04" 
+		"label" "CfR's hud 51103" 
 		"subimage" ""
 		"OnlyAtMenu" "0"
 	}

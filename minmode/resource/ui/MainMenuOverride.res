@@ -205,6 +205,18 @@
 		{
 			"image"		"../console/title_eotl01"
 		}
+		if_community_update
+		{
+			"image"		"../console/title_invasion"
+		}
+		if_operation
+		{
+			"image"		"../console/title_team_halloween2015"
+		}
+		+if_halloween_4
+		{
+			"image"		"../console/title_team_halloween2015"
+		}
 	}
 	
 	"SidePanelBG"
@@ -1730,7 +1742,7 @@
 			"use_proportional_insets" "1"
 			"font"			"CerbeticaBold20"
 			"textAlignment"	"center"
-			"labelText"		"CfR's rayshud 7.04"
+			"labelText"		"CfR's hud 51103"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
@@ -2870,7 +2882,7 @@
 		"xpos"			"60"
 		"ypos"			"416"
 		"zpos"			"1"
-		"wide"			"150"
+		"wide"			"110"
 		"tall"			"16"
 		"autoResize"	"0"
 		"pinCorner"		"3"
@@ -3937,67 +3949,24 @@
 				{
 					"0"
 					{
-						"item"		"Unused Summer 2015 Operation Pass"
-						
-						"wide"		"f0"
-						"tall"		"f0"
-						"proportionaltoparent"	"1"
+						"item"		"Halloween 2015 Key"
 						"show_market"	"0"
 					}
 					"1"
 					{
-						"item"		"Operation Summer 2015 Concealed Killer Case"
-						
-						"wide"		"f0"
-						"tall"		"f0"
-						"proportionaltoparent"	"1"
+						"item"		"Halloween 2015 case"
 					}
 					"2"
 					{
-						"item"		"Operation Summer 2015 Powerhouse Case"
-
-						"wide"		"f0"
-						"tall"		"f0"
-						"proportionaltoparent"	"1"
+						"item"		"Taunt: Zoomin' Broom"
+						"show_market"	"0"
 					}
 					"3"
 					{
-						"item"		"Summer 2015 Operation Key"
-						
-						"wide"		"f0"
-						"tall"		"f0"
-						"proportionaltoparent"	"1"
-						"show_market"	"0"
-					}
-					"4"
-					{
-						"item"		"Taunt: The Boxtrot"
-						
-						"wide"		"f0"
-						"tall"		"f0"
-						"proportionaltoparent"	"1"
-						"show_market"	"0"
-					}
-					"5"
-					{
-						"item"		"Taunt: The Proletariat Showoff"
-						
-						"wide"		"f0"
-						"tall"		"f0"
-						"proportionaltoparent"	"1"
-						"show_market"	"0"
-					}
-					"6"
-					{
-						"item"		"Taunt: Kazotsky Kick"
-						
-						"wide"		"f0"
-						"tall"		"f0"
-						"proportionaltoparent"	"1"
+						"item"		"Taunt: Maggot's Condolence"
 						"show_market"	"0"
 					}
 				}
-			}
 
 		} // Background
 
